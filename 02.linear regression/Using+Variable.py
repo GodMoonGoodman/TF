@@ -3,7 +3,7 @@
 
 # In[42]:
 
-
+#asdasdljajksdaksd
 import tensorflow as tf
 
 #magic, make graph
